@@ -1,0 +1,23 @@
+header{
+    background: $darkpurple;
+    color:white;
+    overflow: auto;
+    padding: 20px 15px;
+    .logo{
+        float:left;
+    }
+    nav{
+        float: right;
+        a{
+            color:white;
+            text-decoration: none;
+            padding: 7px 25px;
+            font-weight: 300;
+            border-radius: 5px;
+            &:hover{
+                color: white;
+                background-color:$pink;
+            }
+        }
+    }
+}
