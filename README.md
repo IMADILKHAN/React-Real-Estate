@@ -1,6 +1,8 @@
 # React-Real-Estate
  * Real Estate website with multiple filters created on React. *
  
+ !(Real_estate.png)
+ 
  _ Steps to use this project_
  
  * Download the repository
