@@ -12,7 +12,7 @@ _following are the techonlogies used_
  ![Real_estate](Real_estate.png)
   ![Real_estate_1](Real_estate_1.png)
  
- _ Steps to use this project_
+ _Steps to use this project_
  
  * Download the repository
  * Type npm install
